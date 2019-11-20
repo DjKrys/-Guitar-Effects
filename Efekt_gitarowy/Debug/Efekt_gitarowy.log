@@ -1,0 +1,39 @@
+﻿  Button.cpp
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Button.cpp(21,27): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Button.cpp(21,20): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Button.cpp(29,28): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Button.cpp(29,24): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Efekt_Body_Pitch.cpp
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Button.cpp(40,8): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Button.cpp(40,8): warning C4244:         with
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Button.cpp(40,8): warning C4244:         [
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Button.cpp(40,8): warning C4244:             T=float
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Button.cpp(40,8): warning C4244:         ]
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Efekt_Body_Pitch.cpp(7,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Efekt_Body_Pitch.cpp(12,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Efekt_Body_Pitch.cpp(17,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Efekt_Body_Distortion.cpp
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Efekt_Body_Pitch.cpp(24,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Efekt_Body_Distortion.cpp(5,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Efekt_Body_Echo.cpp
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Efekt_Body_Distortion.cpp(19,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Efekt_Body_Tremole.cpp
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Efekt_Body_Echo.cpp(8,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Efekt_Body_Tremole.cpp(5,32): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Efekt_Body_Tremole.cpp(8,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Efekt_Body_Tremole.cpp(13,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Efekt_Body_Tremole.cpp(16,19): warning C4244: "*=": konwersja z "float" do "_Ty", możliwa utrata danych
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Efekt_Body_Tremole.cpp(16,19): warning C4244:         with
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Efekt_Body_Tremole.cpp(16,19): warning C4244:         [
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Efekt_Body_Tremole.cpp(16,19): warning C4244:             _Ty=sf::Int16
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Efekt_Body_Tremole.cpp(16,19): warning C4244:         ]
+  Efekt_Handle.cpp
+  Engine.cpp
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Efekt_Body_Tremole.cpp(21,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Engine.cpp(32,31): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Engine.cpp(45,20): warning C4244: "inicjowanie": konwersja z "sf::Uint64" do "size_t", możliwa utrata danych
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Engine.cpp(49,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  main.cpp
+  Generowanie kodu...
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Efekt_gitarowy\Engine.cpp(172,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Efekt_gitarowy.vcxproj -> D:\STUDIA\1,2_ROK\Laboratoria\JP\Efekt gitarowy\Efekt_gitarowy\Debug\Efekt_gitarowy.exe
